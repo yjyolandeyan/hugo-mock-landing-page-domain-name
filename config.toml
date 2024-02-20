@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://yjyolandeyan.github.io/hugo-mock-landing-page'
 title = "Family Meal Planning Tracker"
 author = "Yola Yan"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Yola Yan"
 
 timeZone = 'Europe/London'
 
