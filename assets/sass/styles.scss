@@ -1,14 +1,17 @@
 .home {
-    --bd-purple: #4c0bce;
-    --bd-violet: #712cf9;
+    --bd-purple: #f9582c;
+    --bd-violet: #ce0b42;
     --bd-accent: #ffe484;
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
+    --bd-violet-rgb: 149, 69, 53;
     --bd-accent-rgb: 255,228,132;
     --bd-pink-rgb: 214,51,132;
+    --bd-red-rgb: 255,0,0; 
+    --bd-yellow-rgb: 255,255,0; 
+
 
     .bd-masthead {
         padding: 3rem 0;
-        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+        background-image: linear-gradient(180deg, rgba(var(--bd-violet-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bd-red-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-yellow-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
     }
 
     .btn-bd-primary {
@@ -18,12 +21,12 @@
         --bs-btn-border-color: var(--bd-violet);
         --bs-btn-border-radius: .5rem;
         --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-hover-bg: #ce0b42;
+        --bs-btn-hover-border-color: #ce0b42;
         --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
         --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
+        --bs-btn-active-bg: #ce0b42;
+        --bs-btn-active-border-color: #ce0b42;
     }
 }
 
@@ -39,7 +42,7 @@
 }
 
 .text-violet {
-    color: #6528e0;
+    color: #ce0b42;
 }
 
 .list {
