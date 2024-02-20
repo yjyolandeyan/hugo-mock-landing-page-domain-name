@@ -2,7 +2,7 @@
 
     {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "post" ) }}
         <div class="col">
-
+{{/*  
             <div class="card h-100">
                 <div class="card-body">
                     <h4 class="card-title">
@@ -27,7 +27,7 @@
                     <small class="text-muted">{{ .Date | time.Format ":date_long" }}</small>
                 </div>
             </div>
- 
+   */}}
         </div>
     {{ end }}
 
