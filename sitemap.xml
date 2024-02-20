@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</loc>
+    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/tags/bootstrap/</loc>
     <lastmod>2024-02-20T09:38:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -22,17 +22,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/tags/hugo/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/categories/hugo-release-notes/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/post/hugo-v0-119/</loc>
+    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/authors/mark-otto/</loc>
     <lastmod>2024-02-20T09:38:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -42,62 +32,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/tags/bootstrap/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/post/bootstrap-5-3-0/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/authors/mark-otto/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/categories/the-bootstrap-blog/</loc>
     <lastmod>2024-02-20T09:38:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/post/hugo-v0-100/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/tags/featured/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/post/hugo-bootstrap-theme/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/post/hugo-v0-99/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/about/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/page/bootstrap-carousel/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/page/bootstrap-components/</loc>
     <lastmod>2024-02-20T09:38:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -113,6 +53,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/page/</loc>
+    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/tags/featured/</loc>
     <lastmod>2024-02-20T09:38:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -147,17 +92,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/page/security-best-practices/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/series/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yjyolandeyan.github.io/hugo-mock-landing-page/about.pt/</loc>
-    <lastmod>2024-02-20T09:38:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
