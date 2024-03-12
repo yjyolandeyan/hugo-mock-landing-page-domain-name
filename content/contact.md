@@ -10,4 +10,4 @@ menu:
 
 For collaborations, please contact Yola Yan at yjy at sas.upenn.edu. 
 
-<!-- [Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub. -->
+<!-- [Open an issue](https://github.com/yjyolandeyan/hugo-mock-landing-page-autodeployed/issues/new) on GitHub. -->
