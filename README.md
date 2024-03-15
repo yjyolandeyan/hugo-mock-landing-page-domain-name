@@ -1,5 +1,6 @@
 # hugo-mock-landing-page
 I made a website for a product where you can upload your recipes with your family, so that everyone can be a part of the making and meal designing stage together.
+The new domain name is: https://mydomain.christmas/
 
 # Description of workflow
 The workflow, .github/workflows/gh-pages-deployment.yaml file, I've created is designed for automating the build and deployment of a Hugo-powered website to GitHub Pages using GitHub Actions. It's a sequence of operations triggered by a push event to the main branch of your GitHub repository. 
